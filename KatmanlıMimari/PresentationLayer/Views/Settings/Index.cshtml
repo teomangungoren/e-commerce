@@ -1,0 +1,32 @@
+﻿@model PresentationLayer.Models.UserEditViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<form method="post">
+    @Html.Label("Adınız")
+    <input type="text" asp-for="Name" class="form-control" />
+    <br />
+    @Html.Label("Soyadınız")
+    <input type="text" asp-for="LastName" class="form-control" />
+    <br />
+    @Html.Label("Cinsiyetiniz")
+    <select id="gender" asp-for="Gender">
+    <option value="Erkek">Erkek</option>
+    <option value="Kadın">Kadın</option>
+</select>
+    <br />
+    @Html.Label("Email adresiniz")
+    <input type="text" asp-for="Email" class="form-control" />
+    <br />
+    @Html.Label("Şifre")
+    <input type="text" asp-for="Password" class="form-control" />
+    <br />
+    @Html.Label("Şifre tekrar")
+    <input type="text" asp-for="ConfirmPassword" class="form-control" />
+    <br />
+    <button class="btn btn-outline-dark">Kaydet</button>
+
+</form>
+

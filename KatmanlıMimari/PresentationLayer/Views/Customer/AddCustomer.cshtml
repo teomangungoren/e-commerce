@@ -1,0 +1,34 @@
+﻿@model EntityLayer.Concrete.Customer
+@{
+    ViewData["Title"] = "AddCustomer";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<style>
+
+    form {
+        margin: 20px auto;
+    }
+</style>
+<form method="post">
+    @Html.Label("Müşteri Adı")
+    @Html.TextBoxFor(x=>x.Name,new {@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Name)
+    <br />
+    
+    @Html.Label("Müşteri Email")
+    @Html.TextBoxFor(x=>x.Email,new {@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Adress)
+   
+    <br />
+    @Html.Label("Müşteri Adres")
+    @Html.TextBoxFor(x=>x.Adress,new {@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Adress)
+
+    <br />
+
+  
+    <button class="btn btn-primary">Müşteri Ekle</button>
+
+
+</form>

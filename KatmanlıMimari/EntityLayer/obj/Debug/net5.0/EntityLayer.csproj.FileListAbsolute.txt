@@ -1,0 +1,12 @@
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\w10\source\repos\KatmanlıMimari\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
